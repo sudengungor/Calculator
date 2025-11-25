@@ -1,9 +1,10 @@
-# calculator_project
+# Flutter Calculator App
 
-A new Flutter project.
+A simple and clean calculator application built with Flutter.  
+This project was created to practice Flutter widgets, layouts, and basic state management.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-
+## Features
+- Basic arithmetic operations (addition, subtraction, multiplication, division)
+- Responsive UI
+- Clean button layout
+- Easy to customize
